@@ -8,7 +8,7 @@
 
     string rutaOrigen = "C:/Users/julio/OneDrive/Documentos/Ejercicios c++/origen.txt";
     string rutaDestino = "C:/Users/julio/OneDrive/Documentos/Ejercicios c++/destino.txt";
-    string rutaEscritorio = "C:/Users/julio/OneDrive/Desktop/tabla_8.txt";
+    string rutaEscritorio = "C:/Users/julio/OneDrive/Desktop/tab multi 8.txt";
 
     int main() {
         copiarArchivo(rutaOrigen, rutaDestino);
